@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'humane-bold';
+  src: url('../../public/fonts/Humane-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'bebas-neue';
+  src: url('../../public/fonts/BebasNeue-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'humane-regular';
+  src: url('../../public/fonts/Humane-Regular.ttf') format('truetype');
+}
