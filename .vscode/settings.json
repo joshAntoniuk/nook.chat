@@ -1,6 +1,7 @@
 {
     "editor.formatOnSave": true,
     "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
     "editor.smoothScrolling": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit",
